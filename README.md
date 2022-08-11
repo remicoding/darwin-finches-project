@@ -6,8 +6,9 @@ The data is about Darwin's finches specifically the _Geospiza Fortis_ (fortis) a
 
 The skills displayed in this project include:
 
-- statistical inference
+- Importing and Cleaning Data
 - Exploratory Data Analysis
-- Bootstrapping
+- statistical inference
+- Bootstrap Analysis
 - Parameter estimatation
 - Hypothesis testing
